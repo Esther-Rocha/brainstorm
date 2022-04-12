@@ -1,0 +1,6 @@
+Será criado um sistema com câmeras e sensores onde será monitorado a quantidade de vagas e uma combinação inteligente que apontará com a melhor vaga 
+Exemplo: o cliente vai colocar no toten o horário de entrada e saída que vai ficar estacionado, o método de pagamento e receberá um código para a retirada do carro. O programa calculará o melhor local para ser estacionado, um carro que ficará apenas 30 minutos no estacionamento poderá ficar na frente de um que ficará 2 horas, assim evitando possíveis acidentes.
+Nas vagas terão sensores que indicaram quais carros estão estacionados, e indicaram o melhor local de vaga, e também irá apontar qual foi o manobrista responsável por estacionar o carro, com o sistema do toten o pagamento sera efetuado na saída, havendo um controle onde se for excedido o tempo irá ser cobrado uma taxa adicional e evitará que o motorista saia sem pagar. 
+Os meios de pagamentos, variam entre pix, dinheiro, e cartão crédito/debito, a cancela só ira abrir quando constar o pagamento no sistema 
+
+
